@@ -1,5 +1,3 @@
-//i grab a part of the code from https://github.com/ezist/quick-toggler/ by ezist#7571
-
 const { Plugin } = require('powercord/entities')
 
 module.exports = class QuickThemeToggler extends Plugin {

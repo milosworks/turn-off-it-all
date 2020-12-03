@@ -1,4 +1,4 @@
-# Quick Themes Toggle
+# Turn It Off All
 A [powercord](https://powercord.dev/) plugin that using F6 and F7 toggle **all** the themes
 F6: Turn off al the themes
 F7: Turn on all the themes
